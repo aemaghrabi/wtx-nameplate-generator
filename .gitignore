@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+_to_delete/
+
+
+# OS Filesystem
+*.DS_Store
+
+# Output Files
+*.svg
+
+# Ignore files in assets directory
+!assets/**/*.svg

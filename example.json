@@ -1,0 +1,17 @@
+{
+  "product_name": "WTX-200",
+  "product_type": "Wireless Transmitter",
+  "model": "WTX-200-ZB",
+  "serial": "WTX2611000123",
+  "supply": "3.6 V DC",
+  "protection": "IP66",
+  "temp": "-40 … +85 °C",
+  "mfg_date": "11/2026",
+  "qr_data": "https://register.iotechglobal.io/WTX2611000123",
+  "barcode_data": "WTX2611000123",
+  "footer_1": "IoTech LLC",
+  "footer_2": "Dokki, Giza, Egypt",
+  "footer_3": "iotechglobal.io",
+  "ce_mark": true,
+  "ex_mark": true
+}
